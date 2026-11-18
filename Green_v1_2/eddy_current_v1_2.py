@@ -1,3 +1,25 @@
+# Green Eddy-Current Solver
+# Analytical calculation of eddy currents in thin conductive coatings
+# of accelerator vacuum chambers.
+#
+# Copyright (C) 2026 Hao-Wen Luo.
+# Copyright (C) 2026 National Synchrotron Radiation Research Center (NSRRC).
+#
+# This file is part of Green Eddy-Current Solver.
+#
+# Green Eddy-Current Solver is free software: you can redistribute it
+# and/or modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation, version 3.
+#
+# Green Eddy-Current Solver is distributed in the hope that it will
+# be useful, but WITHOUT ANY WARRANTY; without even the implied
+# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Green Eddy-Current Solver.
+# If not, see <https://www.gnu.org/licenses/>.
+
 import sys
 import numpy as np
 import pandas as pd
