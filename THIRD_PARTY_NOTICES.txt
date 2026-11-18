@@ -1,0 +1,55 @@
+THIRD-PARTY SOFTWARE NOTICES
+
+This software uses the following third-party components.
+
+==================================================
+1. PyQt6
+==================================================
+
+Copyright (C) Riverbank Computing Limited.
+License: GNU General Public License v3 (GPLv3).
+
+Website:
+https://www.riverbankcomputing.com/software/pyqt/
+
+==================================================
+2. Qt 6
+==================================================
+
+Copyright (C) The Qt Company Ltd. and other contributors.
+License: See the license terms of the individual Qt components.
+
+Website:
+https://www.qt.io/
+
+==================================================
+3. NumPy
+==================================================
+
+License: BSD-3-Clause.
+Website:
+https://numpy.org/
+
+==================================================
+4. SciPy
+==================================================
+
+License: BSD-3-Clause.
+Website:
+https://scipy.org/
+
+==================================================
+5. pandas
+==================================================
+
+License: BSD-3-Clause.
+Website:
+https://pandas.pydata.org/
+
+==================================================
+6. Plotly
+==================================================
+
+License: MIT.
+Website:
+https://plotly.com/python/
